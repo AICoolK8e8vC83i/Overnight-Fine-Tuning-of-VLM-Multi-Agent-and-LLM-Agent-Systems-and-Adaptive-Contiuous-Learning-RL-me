@@ -5,3 +5,5 @@ Related work: RL from human feedback, visual grounding, embodied AI
 Method: Architecture (vision encoder → RL policy + language feedback module)
 Results: Learning curves, ablation (with/without language feedback)
 Discussion: Implications for AI safety, future work
+
+Focusing on Avoiding Next Token Prediction Simplicity (e.g. User wants to OPtimize for X Goal --> Next token for X Goal) and considering real world nuances, context, consequences, and chain of thought alignemnt reasoning to consider the user's other goals not just the one presented in the context window
